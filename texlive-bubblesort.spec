@@ -1,6 +1,6 @@
 Name:		texlive-bubblesort
 Version:	56070
-Release:	1
+Release:	2
 Summary:	Bubble sorts a list
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bubblesort
