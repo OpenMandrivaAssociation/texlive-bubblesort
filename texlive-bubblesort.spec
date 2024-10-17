@@ -3,7 +3,7 @@ Version:	56070
 Release:	2
 Summary:	Bubble sorts a list
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bubblesort
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bubblesort
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bubblesort.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bubblesort.doc.r%{version}.tar.xz
